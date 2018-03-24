@@ -1,0 +1,6 @@
+D:\Proyectos\Go\.vs\Go\lut\0\b\Modelos\bin\Debug\Modelos.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Modelos\bin\Debug\Modelos.pdb
+D:\Proyectos\Go\.vs\Go\lut\0\i\Modelos\Debug\Modelos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\.vs\Go\lut\0\i\Modelos\Debug\Modelos.csproj.CopyComplete
+D:\Proyectos\Go\.vs\Go\lut\0\i\Modelos\Debug\Modelos.dll
+D:\Proyectos\Go\.vs\Go\lut\0\i\Modelos\Debug\Modelos.pdb

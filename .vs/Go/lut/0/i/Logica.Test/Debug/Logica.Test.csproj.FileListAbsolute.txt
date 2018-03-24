@@ -1,0 +1,12 @@
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\Logica.Test.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica.Test\bin\Debug\Logica.Test.pdb
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica.Test\Debug\Logica.Test.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica.Test\Debug\Logica.Test.csproj.CopyComplete
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica.Test\Debug\Logica.Test.dll
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica.Test\Debug\Logica.Test.pdb

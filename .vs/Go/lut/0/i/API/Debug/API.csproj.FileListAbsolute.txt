@@ -1,0 +1,8 @@
+D:\Proyectos\Go\.vs\Go\lut\0\b\API\bin\API.dll.config
+D:\Proyectos\Go\.vs\Go\lut\0\b\API\bin\API.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\API\bin\API.pdb
+D:\Proyectos\Go\.vs\Go\lut\0\i\API\Debug\API.csprojResolveAssemblyReference.cache
+D:\Proyectos\Go\.vs\Go\lut\0\i\API\Debug\API.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\.vs\Go\lut\0\i\API\Debug\API.csproj.CopyComplete
+D:\Proyectos\Go\.vs\Go\lut\0\i\API\Debug\API.dll
+D:\Proyectos\Go\.vs\Go\lut\0\i\API\Debug\API.pdb

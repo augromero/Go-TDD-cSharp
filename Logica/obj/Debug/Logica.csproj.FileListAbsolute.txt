@@ -1,0 +1,9 @@
+D:\Proyectos\Go\Logica\bin\Debug\Logica.dll
+D:\Proyectos\Go\Logica\bin\Debug\Logica.pdb
+D:\Proyectos\Go\Logica\bin\Debug\Modelos.dll
+D:\Proyectos\Go\Logica\bin\Debug\Modelos.pdb
+D:\Proyectos\Go\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Proyectos\Go\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Proyectos\Go\Logica\obj\Debug\Logica.dll
+D:\Proyectos\Go\Logica\obj\Debug\Logica.pdb

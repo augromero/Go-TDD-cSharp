@@ -1,0 +1,6 @@
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica\bin\Debug\Logica.dll
+D:\Proyectos\Go\.vs\Go\lut\0\b\Logica\bin\Debug\Logica.pdb
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica\Debug\Logica.csproj.CopyComplete
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica\Debug\Logica.dll
+D:\Proyectos\Go\.vs\Go\lut\0\i\Logica\Debug\Logica.pdb

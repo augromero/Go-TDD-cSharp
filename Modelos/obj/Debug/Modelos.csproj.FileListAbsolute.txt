@@ -1,0 +1,6 @@
+D:\Proyectos\Go\Modelos\bin\Debug\Modelos.dll
+D:\Proyectos\Go\Modelos\bin\Debug\Modelos.pdb
+D:\Proyectos\Go\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Go\Modelos\obj\Debug\Modelos.dll
+D:\Proyectos\Go\Modelos\obj\Debug\Modelos.pdb
+D:\Proyectos\Go\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
